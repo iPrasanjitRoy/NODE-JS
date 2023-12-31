@@ -1,0 +1,14 @@
+{
+  "name": "mynodepackage",
+  "version": "1.0.0",
+  "description": "This IS My Node Package That I Have Created ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasanjit Roy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
